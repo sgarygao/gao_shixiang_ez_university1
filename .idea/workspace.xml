@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e602bff0-bb1d-470f-82d5-37365283a0d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gao_shixiang_ez_university$urls.coverage" NAME="urls Coverage Results" MODIFIED="1571619297465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/courseinfo" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gao_shixiang_ez_university" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/requirements/base.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>year_id</find>
+      <find>year</find>
+      <find>sectionlis</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/courseinfo/instructor_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/instructor_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/section_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/section_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/section_detail.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/course_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/semester_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/student_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/registration_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/course_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/course_detail.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/semester_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/semester_detail.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/student_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/student_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0004_semester_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/admin.py" />
+        <option value="$PROJECT_DIR$/courseinfo/models.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0005_period_schema_and_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0006_year_schema_and_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0007_semester_schema_and_data_conversion.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0009_load_instructor_test_data.py" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/instructor_list.html" />
+        <option value="$PROJECT_DIR$/templates/courseinfo/student_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/about.html" />
+        <option value="/usr/local/lib/python3.7/site-packages/django/views/generic/base.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/utils.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" />
+        <option value="$PROJECT_DIR$/courseinfo/views.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/urls.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/settings.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/settings/__init__.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/settings/development.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/settings/production.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/settings/base.py" />
+        <option value="$PROJECT_DIR$/gao_shixiang_ez_university/requirements/base.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="23" />
+    <option name="width" value="1313" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="requirements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gao_shixiang_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gao_shixiang_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/courseinfo/disabled_migrations" />
+      <recent name="$PROJECT_DIR$/gao_shixiang_ez_university/requirements" />
+      <recent name="$PROJECT_DIR$/gao_shixiang_ez_university/settings" />
+      <recent name="$PROJECT_DIR$/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/migrations" />
+      <recent name="$PROJECT_DIR$/static/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/static/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/old_copy_of_db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.urls">
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gao_shixiang_ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/courseinfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/courseinfo/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gao_shixiang_ez_university" type="Python.DjangoServer" factoryName="Django server">
+      <module name="gao_shixiang_ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e602bff0-bb1d-470f-82d5-37365283a0d5" name="Default Changelist" comment="" />
+      <created>1569172471654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569172471654</updated>
+      <workItem from="1569172475612" duration="4384000" />
+      <workItem from="1569422797715" duration="4834000" />
+      <workItem from="1570063867866" duration="6475000" />
+      <workItem from="1570212641356" duration="5270000" />
+      <workItem from="1570218961616" duration="9000" />
+      <workItem from="1570220140119" duration="68000" />
+      <workItem from="1570943265837" duration="2467000" />
+      <workItem from="1571587328093" duration="16419000" />
+      <workItem from="1572132382579" duration="11597000" />
+      <workItem from="1572463867695" duration="1649000" />
+      <workItem from="1572650267159" duration="2709000" />
+      <workItem from="1573164894814" duration="1477000" />
+      <workItem from="1573318210988" duration="5170000" />
+      <workItem from="1574008392617" duration="4682000" />
+      <workItem from="1574620249297" duration="1537000" />
+      <workItem from="1574633123731" duration="2672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="23" width="1313" height="803" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.31235248" />
+      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.2769473" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010846" side_tool="true" weight="0.2769473" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31831396" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="manage.py@gao_shixiang_ez_university" order="10" weight="0.42732558" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32994187" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32994187" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3296617" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296617" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/django_manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4365">
+          <caret line="317" selection-start-line="317" selection-end-line="317" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2965">
+          <caret line="407" selection-start-line="407" selection-end-line="407" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0008_auto_20191027_2129.py" />
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/3f69ed3955f3e5bb1755541bc8373d12/Message/MessageTemp/7da8764c0dff0e33e50684311bb09601/File/0007_semester_schema_and_data_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2139">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0004_semester_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0005_period_schema_and_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0006_year_schema_and_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0007_semester_schema_and_data_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="141" column="95" selection-start-line="141" selection-start-column="95" selection-end-line="141" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0008_auto_20191101_2323.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0009_load_instructor_test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="543" column="47" selection-start-line="543" selection-start-column="47" selection-end-line="543" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0010_load_student_test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0003_auto_20191027_0113.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfo/logo.png" />
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/views.py" />
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/core/management/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="389" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../gcbv_starter_files/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfo/skeleton.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfo/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0012_create_group_permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5715">
+          <caret line="398" column="58" selection-start-line="398" selection-start-column="58" selection-end-line="398" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/settings/development.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="124" column="41" selection-start-line="124" selection-start-column="41" selection-end-line="124" selection-end-column="41" />
+          <folding>
+            <element signature="e#327#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gao_shixiang_ez_university/requirements/base.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
